@@ -1,4 +1,4 @@
-# 🎯 Quiz Master - Interactive Quiz Web App
+# Rama Quiz App - Interactive Quiz Web App
 
 A sleek, modern quiz application that fetches real questions from an API and tracks your progress. Built with pure HTML, CSS, and JavaScript - no fancy frameworks needed!
 
